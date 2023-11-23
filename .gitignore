@@ -1,0 +1,6 @@
+# Fichiers à ignorer
+__pycache/
+.vscode/
+st-env/
+pyvenv.cfg
+valeur_fonciere22.csv
